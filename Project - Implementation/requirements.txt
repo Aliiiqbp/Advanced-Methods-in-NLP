@@ -1,0 +1,12 @@
+pip
+wheel
+setuptools
+numpy
+notebook
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+tqdm
+--extra-index-url https://download.pytorch.org/whl/cu117
+torch
+transformers
+pandas
